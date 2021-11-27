@@ -7,6 +7,7 @@ public class Main {
         // HelloWorld helloWorld = new HelloWorld(); // Print hello world in constructor
         // UserInput userInput = new UserInput(); // Take input and display
         // DialogBox dialogBox = new DialogBox(); // Simple Dialog Box
-        BasicMath basicMath = new BasicMath(); // Basic Mathematical Operation
+        // BasicMath basicMath = new BasicMath(); // Basic Mathematical Operation
+        RandomNumber randomNumber = new RandomNumber(); // Random Number Generation
     }
 }

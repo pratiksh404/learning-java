@@ -10,6 +10,7 @@ public class Main {
         // BasicMath basicMath = new BasicMath(); // Basic Mathematical Operation
         // RandomNumber randomNumber = new RandomNumber(); // Random Number Generation
         // MultidimentionalArray multidimentionalArray = new MultidimentionalArray(); // Multi-dimentional Array example
-        StringMethod stringMethod = new StringMethod();
+        // StringMethod stringMethod = new StringMethod(); // String Methods
+        ArrayListExample arrayListExample = new ArrayListExample();
     }
 }

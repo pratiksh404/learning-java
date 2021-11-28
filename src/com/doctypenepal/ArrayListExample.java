@@ -14,7 +14,7 @@ public class ArrayListExample {
         food.add("Masu Bhat");
 
         food.set(2,"venta ko tarkari");
-        
+
         // food.remove(2);
         // food.clear();
 

@@ -12,6 +12,7 @@ public class Main {
         // MultidimentionalArray multidimentionalArray = new MultidimentionalArray(); // Multi-dimentional Array example
         // StringMethod stringMethod = new StringMethod(); // String Methods
         // ArrayListExample arrayListExample = new ArrayListExample();
-        MultidimentionalArrayListExample multidimentionalArrayListExample = new MultidimentionalArrayListExample();
+        // MultidimentionalArrayListExample multidimentionalArrayListExample = new MultidimentionalArrayListExample();
+        ExceptionExample exceptionExample = new ExceptionExample();
     }
 }

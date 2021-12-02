@@ -22,5 +22,10 @@ public class ArrayListExample {
             System.out.println(food.get(i));
         }
 
+        // foreach example
+        for(String i : food){
+            System.out.println(i);
+        }
+
     }
 }

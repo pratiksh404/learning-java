@@ -14,7 +14,7 @@ public class ExceptionExample {
             int y = scanner.nextInt();
 
             int z = x/y;
-            System.out.println("Result : " + z);5
+            System.out.println("Result : " + z);
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }

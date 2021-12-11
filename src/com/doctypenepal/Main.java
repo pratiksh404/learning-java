@@ -19,7 +19,8 @@ public class Main {
         // FileReaderExample fileReaderExample = new FileReaderExample();
         // JframeExample jframeExample = new JframeExample();
         // JLableExample jLableExample = new JLableExample();
-        ButtonExample buttonExample = new ButtonExample();
+        // ButtonExample buttonExample = new ButtonExample();
+        BorderLayoutExample borderLayoutExample = new BorderLayoutExample();
 
     }
 }

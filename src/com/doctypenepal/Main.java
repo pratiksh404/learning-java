@@ -16,6 +16,7 @@ public class Main {
         // ExceptionExample exceptionExample = new ExceptionExample();
         // FileExample fileExample = new FileExample();
         // FileWriterExample fileWriterExample = new FileWriterExample();
-        FileReaderExample fileReaderExample = new FileReaderExample();
+        // FileReaderExample fileReaderExample = new FileReaderExample();
+        JframeExample jframeExample = new JframeExample();
     }
 }

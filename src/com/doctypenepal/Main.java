@@ -20,7 +20,8 @@ public class Main {
         // JframeExample jframeExample = new JframeExample();
         // JLableExample jLableExample = new JLableExample();
         // ButtonExample buttonExample = new ButtonExample();
-        BorderLayoutExample borderLayoutExample = new BorderLayoutExample();
+        // BorderLayoutExample borderLayoutExample = new BorderLayoutExample();
+        FlowLayoutExample flowLayoutExample = new FlowLayoutExample();
 
     }
 }

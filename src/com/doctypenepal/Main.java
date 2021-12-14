@@ -21,7 +21,9 @@ public class Main {
         // JLableExample jLableExample = new JLableExample();
         // ButtonExample buttonExample = new ButtonExample();
         // BorderLayoutExample borderLayoutExample = new BorderLayoutExample();
-        FlowLayoutExample flowLayoutExample = new FlowLayoutExample();
+        // FlowLayoutExample flowLayoutExample = new FlowLayoutExample();
+        // GridLayoutExample gridLayoutExample = new GridLayoutExample();
+        LaunchPageExample launchPageExample = new LaunchPageExample();
 
     }
 }

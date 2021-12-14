@@ -23,7 +23,7 @@ public class Main {
         // BorderLayoutExample borderLayoutExample = new BorderLayoutExample();
         // FlowLayoutExample flowLayoutExample = new FlowLayoutExample();
         // GridLayoutExample gridLayoutExample = new GridLayoutExample();
-        LaunchPageExample launchPageExample = new LaunchPageExample();
-
+        // LaunchPageExample launchPageExample = new LaunchPageExample();
+        JOptionPaneExample jOptionPaneExample = new JOptionPaneExample();
     }
 }

@@ -24,6 +24,7 @@ public class Main {
         // FlowLayoutExample flowLayoutExample = new FlowLayoutExample();
         // GridLayoutExample gridLayoutExample = new GridLayoutExample();
         // LaunchPageExample launchPageExample = new LaunchPageExample();
-        JOptionPaneExample jOptionPaneExample = new JOptionPaneExample();
+        // JOptionPaneExample jOptionPaneExample = new JOptionPaneExample();
+        TextFieldExample textFieldExample = new TextFieldExample();
     }
 }

@@ -25,6 +25,7 @@ public class Main {
         // GridLayoutExample gridLayoutExample = new GridLayoutExample();
         // LaunchPageExample launchPageExample = new LaunchPageExample();
         // JOptionPaneExample jOptionPaneExample = new JOptionPaneExample();
-        TextFieldExample textFieldExample = new TextFieldExample();
+        // TextFieldExample textFieldExample = new TextFieldExample();
+        JCheckBoxExample jCheckBoxExample = new JCheckBoxExample();
     }
 }

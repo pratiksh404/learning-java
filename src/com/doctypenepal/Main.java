@@ -26,6 +26,7 @@ public class Main {
         // LaunchPageExample launchPageExample = new LaunchPageExample();
         // JOptionPaneExample jOptionPaneExample = new JOptionPaneExample();
         // TextFieldExample textFieldExample = new TextFieldExample();
-        JCheckBoxExample jCheckBoxExample = new JCheckBoxExample();
+        // JCheckBoxExample jCheckBoxExample = new JCheckBoxExample();
+        RadioButtonExample radioButtonExample = new RadioButtonExample();
     }
 }

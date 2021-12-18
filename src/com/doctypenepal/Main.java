@@ -29,6 +29,7 @@ public class Main {
         // JCheckBoxExample jCheckBoxExample = new JCheckBoxExample();
         // RadioButtonExample radioButtonExample = new RadioButtonExample();
         // SelectBoxExample selectBoxExample = new SelectBoxExample();
-        SliderExample sliderExample = new SliderExample();
+        // SliderExample sliderExample = new SliderExample();
+        ProgressBarExample progressBarExample = new ProgressBarExample();
     }
 }

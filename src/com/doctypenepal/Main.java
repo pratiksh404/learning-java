@@ -28,6 +28,7 @@ public class Main {
         // TextFieldExample textFieldExample = new TextFieldExample();
         // JCheckBoxExample jCheckBoxExample = new JCheckBoxExample();
         // RadioButtonExample radioButtonExample = new RadioButtonExample();
-        SelectBoxExample selectBoxExample = new SelectBoxExample();
+        // SelectBoxExample selectBoxExample = new SelectBoxExample();
+        SliderExample sliderExample = new SliderExample();
     }
 }

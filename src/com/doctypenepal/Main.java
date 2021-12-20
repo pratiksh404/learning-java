@@ -30,6 +30,8 @@ public class Main {
         // RadioButtonExample radioButtonExample = new RadioButtonExample();
         // SelectBoxExample selectBoxExample = new SelectBoxExample();
         // SliderExample sliderExample = new SliderExample();
-        ProgressBarExample progressBarExample = new ProgressBarExample();
+        // ProgressBarExample progressBarExample = new ProgressBarExample();
+        // MenubarExample menubarExample = new MenubarExample();
+        SelectFileExample selectFileExample = new SelectFileExample();
     }
 }

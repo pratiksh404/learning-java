@@ -33,6 +33,7 @@ public class Main {
         // ProgressBarExample progressBarExample = new ProgressBarExample();
         // MenubarExample menubarExample = new MenubarExample();
         // SelectFileExample selectFileExample = new SelectFileExample();
-        KeyListenerExample keyListenerExample = new KeyListenerExample();
+        // KeyListenerExample keyListenerExample = new KeyListenerExample();
+        MouseListenerExample mouseListenerExample = new MouseListenerExample();
     }
 }

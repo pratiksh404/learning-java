@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class JLableExample {
+
     JLableExample(){
         JLabel label = new JLabel();
         ImageIcon labelImage = new ImageIcon("circle_dtn.png");

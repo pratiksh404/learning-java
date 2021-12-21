@@ -34,6 +34,8 @@ public class Main {
         // MenubarExample menubarExample = new MenubarExample();
         // SelectFileExample selectFileExample = new SelectFileExample();
         // KeyListenerExample keyListenerExample = new KeyListenerExample();
-        MouseListenerExample mouseListenerExample = new MouseListenerExample();
+        // MouseListenerExample mouseListenerExample = new MouseListenerExample();
+        // GenericExample genericExample = new GenericExample();
+        TimeTaskExample timeTaskExample = new TimeTaskExample();
     }
 }

@@ -36,6 +36,11 @@ public class Main {
         // KeyListenerExample keyListenerExample = new KeyListenerExample();
         // MouseListenerExample mouseListenerExample = new MouseListenerExample();
         // GenericExample genericExample = new GenericExample();
-        TimeTaskExample timeTaskExample = new TimeTaskExample();
+        // TimeTaskExample timeTaskExample = new TimeTaskExample();
+        try {
+            ThreadExample threadExample = new ThreadExample();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
